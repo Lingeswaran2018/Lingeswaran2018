@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lingeswaran2
+- 👋 Hi, I’m Lingeswaran
 - 👀 I’m interested in Machine learning 
 - 🌱 I’m currently learning Electrical Engineering at University of Moratuwa
   
