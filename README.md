@@ -1,12 +1,16 @@
-👋 Hi, I'm Lingeswaran, currently pursuing a degree in Electrical Engineering at the University of Moratuwa. I'm passionate about machine learning and its applications in various fields. Currently, I am gaining practical experience in the field of electronics through an internship at Vega Innovation.
+👋 **Hi, I'm Lingeswaran!**  
+I'm an Electrical Engineering undergraduate at the **University of Moratuwa**, passionate about **Machine Learning, AI, and Robotics**. My focus lies in **LLM projects, chatbot development, Edge AI, fine-tuning models, and robotics**.  
 
-About Me
-🔭 I'm enthusiastic about exploring the intersections of technology and innovation.
-🌱 I'm continuously learning and expanding my knowledge in machine learning and electronics.
-💼 Currently interning at Vega Innovation as an Electronic Engineer.
-💻 I enjoy coding and solving problems using Python and MATLAB.
-📚 I'm dedicated to academic excellence and strive to contribute positively to the field of electrical engineering.
-Interests
-Machine Learning
-Artificial Intelligence
-Embedded Systems
+### **About Me**  
+🔭 I explore the intersections of **AI, automation, and real-world applications**.  
+🌱 Continuously learning and experimenting with **LLMs, Edge AI, and model fine-tuning**.  
+💼 Currently working on **chatbots, speech AI, and robotic intelligence**.  
+💻 Passionate about coding, problem-solving, and deploying **AI models efficiently**.  
+📚 Dedicated to pushing the boundaries of **ML, embedded systems, and cloud AI**.  
+
+### **Interests**  
+✅ Large Language Models (LLMs) & Chatbots  
+✅ Edge AI & On-Device ML  
+✅ Model Fine-Tuning & Optimization  
+✅ Robotics & Autonomous Systems  
+✅ Embedded Systems & AI Deployment  
