@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lingeswaran Sathiyalokeswaran, and I'm an AI & ML enthusiast from Sri Lanka.</h2>
+<h2 align="left">Hi 👋! I am Lingeswaran Sathiyalokeswaran, and I'm an AI & ML enthusiast from Sri Lanka.</h2>
 
 ###
 
