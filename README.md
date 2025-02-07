@@ -11,6 +11,8 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
+<img align="right" height="10" src="/mnt/data/robotic_image.png"  />
+
 ###
 
 <h2 align="left">About Me</h2>
