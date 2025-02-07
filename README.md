@@ -11,7 +11,7 @@
 
 
 
-<img align="right" height="150" src="https://media.giphy.com/media/fb8maSaKTj3WVy2gFQ/giphy.gif?cid=ecf05e4713wzhj3gvmm3ckwdkhqzqybhox6v4p5yc9s73cyf&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Welcome to AI World" />
+<img align="right" height="150" src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=ecf05e4713wzhj3gvmm3ckwdkhqzqybhox6v4p5yc9s73cyf&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Welcome to AI World" />
 
 
 
