@@ -41,5 +41,5 @@
   <a href="https://github.com/Lingeswaran2018" target="_blank">GitHub</a> |
   <a href="https://www.linkedin.com/in/sathiyalokeswaran-lingeswaran-3b403720a/" target="_blank">LinkedIn</a> |
   <a href="https://linga-ai-solutions.streamlit.app/" target="_blank">Linga AI Solutions</a> |
-  <a href="https://huggingface.co/Lingeswaran" target="_blank">Hugging Face</a>
+  <a href="https://huggingface.co/Lingalingeswaran" target="_blank">Hugging Face</a>
 </p>
