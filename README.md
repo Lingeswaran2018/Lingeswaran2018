@@ -9,8 +9,9 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Welcome to AI World" />
 
+
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpkc2plZWNxd2J6aGo2MnJzcTEzZmFxZHV1cjU1ajdtZDNlc3Y5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/brnrokmYFFT0Znl5hQ/giphy.gif" alt="Welcome to AI World" />
 
 
 
